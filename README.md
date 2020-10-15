@@ -1,5 +1,7 @@
 # Wrapper
-This is a Goanimate Legacy Video Maker Remake built in [Node.js](https://nodejs.org/)
+This is a Goanimate Legacy Video Maker Remake built in [Node.js](https://nodejs.org/) but is also modded and mixed.
+
+Credit: Creator of og online wrapper
 
 # Server
 If you want to edit the Asset Server, then click [here](https://github.com/2Epik4u/Wrapper-Online-Assets).
@@ -31,3 +33,7 @@ npm start
 if you want to host it on your own pc then simply clone or download this repo.
 Then open cmd then cd to the folder 
 then do npm install the npm start
+
+# Host on Herkoku 
+
+[Youtube](https://www.youtube.com/watch?v=lndVj4QEZkA)
